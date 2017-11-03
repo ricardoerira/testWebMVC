@@ -1,0 +1,11 @@
+/Users/ricardo/Projects/testweb/testweb/bin/Debug/netcoreapp2.0/testweb.deps.json
+/Users/ricardo/Projects/testweb/testweb/bin/Debug/netcoreapp2.0/testweb.runtimeconfig.json
+/Users/ricardo/Projects/testweb/testweb/bin/Debug/netcoreapp2.0/testweb.runtimeconfig.dev.json
+/Users/ricardo/Projects/testweb/testweb/bin/Debug/netcoreapp2.0/testweb.dll
+/Users/ricardo/Projects/testweb/testweb/bin/Debug/netcoreapp2.0/testweb.pdb
+/Users/ricardo/Projects/testweb/testweb/obj/Debug/netcoreapp2.0/testweb.csproj.CoreCompileInputs.cache
+/Users/ricardo/Projects/testweb/testweb/obj/Debug/netcoreapp2.0/testweb.AssemblyInfoInputs.cache
+/Users/ricardo/Projects/testweb/testweb/obj/Debug/netcoreapp2.0/testweb.AssemblyInfo.cs
+/Users/ricardo/Projects/testweb/testweb/obj/Debug/netcoreapp2.0/testweb.dll
+/Users/ricardo/Projects/testweb/testweb/obj/Debug/netcoreapp2.0/testweb.pdb
+/Users/ricardo/Projects/testweb/testweb/obj/Debug/netcoreapp2.0/testweb.csprojResolveAssemblyReference.cache

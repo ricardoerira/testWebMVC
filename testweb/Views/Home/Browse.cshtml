@@ -1,0 +1,25 @@
+﻿@model Category
+@{
+    ViewBag.Title = "Browse Productos";
+}
+<div class="category">
+   
+                       <h5 class="control-label">Choise your Product   </h5>
+
+    <ul id="album-list" class="list-unstyled">
+        @foreach (var product in Model.products)
+        {
+            <li class="col-lg-2 col-md-2 col-sm-2 col-xs-4 container">
+                <a asp-controller="Product" asp-action="Details" asp-route-id="@product.id">
+                                   
+                    <h5 class="control-label">@product.name   </h5>
+				                    <h5 class="control-label">$  @product.price </h5>
+
+
+			
+                </a>
+            </li>
+		
+        }
+    </ul>
+</div>

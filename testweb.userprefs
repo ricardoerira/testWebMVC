@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{9354D0C9-3D8E-4E8C-A81D-4EBA53A16E1E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="testweb/Startup.cs">
+    <Files>
+      <File FileName="testweb/Models/Category.cs" Line="11" Column="35" />
+      <File FileName="testweb/Models/Product.cs" Line="7" Column="6" />
+      <File FileName="testweb/Models/Customer.cs" Line="6" Column="26" />
+      <File FileName="testweb/Models/Order.cs" Line="13" Column="66" />
+      <File FileName="testweb/Models/OrderDetail.cs" Line="10" Column="33" />
+      <File FileName="testweb/Models/StoreContext.cs" Line="21" Column="28" />
+      <File FileName="testweb/Startup.cs" Line="31" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.testweb PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

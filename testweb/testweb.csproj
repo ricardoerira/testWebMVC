@@ -1,0 +1,51 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.0.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.0" />
+  </ItemGroup>
+  <ItemGroup>
+  <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.0.0" />
+  <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools.DotNet" Version="2.0.0" />
+</ItemGroup>
+  <ItemGroup>
+    <Content Remove="Views\Order\Create.cshtml" />
+    <Content Remove="Views\Order\Delete.cshtml" />
+    <Content Remove="Views\Order\Details.cshtml" />
+    <Content Remove="Views\Order\Edit.cshtml" />
+    <Content Remove="Views\Order\Index.cshtml" />
+    <Content Remove="Views\OrderDetail\Create.cshtml" />
+    <Content Remove="Views\OrderDetail\Delete.cshtml" />
+    <Content Remove="Views\OrderDetail\Details.cshtml" />
+    <Content Remove="Views\OrderDetail\Edit.cshtml" />
+    <Content Remove="Views\OrderDetail\Index.cshtml" />
+    <Content Remove="Views\Customer\Create.cshtml" />
+    <Content Remove="Views\Customer\Delete.cshtml" />
+    <Content Remove="Views\Customer\Details.cshtml" />
+    <Content Remove="Views\Customer\Edit.cshtml" />
+    <Content Remove="Views\Customer\Index.cshtml" />
+    <Content Remove="Views\Store\Index.cshtml" />
+    <Content Remove="Views\Home\Browse.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Views\Home\Browse.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Controllers\CustomerController.cs" />
+    <Compile Remove="Controllers\OrderDetailController.cs" />
+    <Compile Remove="Controllers\StoreController.cs" />
+    <Compile Remove="Controllers\OrderController.cs" />
+    <Compile Remove="Models\Order.cs" />
+    <Compile Remove="Models\OrderDetail.cs" />
+    <Compile Remove="Migrations\20171102055612_InitialCreate.cs" />
+    <Compile Remove="Migrations\20171102055612_InitialCreate.Designer.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Repository\" />
+  </ItemGroup>
+</Project>

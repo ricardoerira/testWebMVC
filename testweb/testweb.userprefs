@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{6AA9EF4B-826E-4C4B-9CB1-9FCFA3FCED21}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Repository/ProductMemRepository.cs">
+    <Files>
+      <File FileName="Migrations/20171102055612_InitialCreate.cs" Line="192" Column="38" />
+      <File FileName="Models/Product.cs" Line="19" Column="6" />
+      <File FileName="Controllers/HomeController.cs" Line="42" Column="9" />
+      <File FileName="Migrations/20171102055612_InitialCreate.Designer.cs" Line="28" Column="14" />
+      <File FileName="Migrations/20171102224731_InitialCreate.cs" Line="68" Column="18" />
+      <File FileName="Controllers/ProductController.cs" Line="68" Column="26" />
+      <File FileName="Repository/IProductRepository.cs" Line="10" Column="22" />
+      <File FileName="Repository/ProductRepository.cs" Line="21" Column="9" />
+      <File FileName="Models/StoreMemContext.cs" Line="13" Column="7" />
+      <File FileName="Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="Repository/ProductMemRepository.cs" Line="11" Column="32" />
+      <File FileName="Startup.cs" Line="35" Column="46" />
+      <File FileName="Views/Home/Index.cshtml" Line="11" Column="1" />
+      <File FileName="Models/Category.cs" Line="16" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ricardo/Projects/testweb/testweb/Views/Home/Order.cshtml" relfile="Views/Home/Order.cshtml" line="26" column="1" />
+      <Breakpoint file="/Users/ricardo/Projects/testweb/testweb/Views/Home/Order.cshtml" relfile="Views/Home/Order.cshtml" line="24" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.testweb PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
